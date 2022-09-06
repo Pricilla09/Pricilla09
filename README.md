@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pricilla
 - 👀 I’m interested in APIs, Testing, Automation, Cloud and what not...
-- 🌱 I’m currently learning "Microsoft Azure Services"
+- 🌱 I’m currently learning "Dockers"
 - 📫 How to reach me https://direct.me/bpricilla
 
 <!---
