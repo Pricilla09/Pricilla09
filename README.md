@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pricilla
-- 👀 I’m interested in APIs, Testing, Automation, Cloud and what not...
-- 🌱 I’m currently learning "Dockers"
+- 👀 I’m interested in APIs, Testing, Automation, Cloud and whatnot...
+- 🌱 I’m currently learning "Generative AI"
 - 📫 How to reach me https://direct.me/bpricilla
 
 <!---
